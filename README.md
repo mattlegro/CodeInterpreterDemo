@@ -6,11 +6,11 @@ In this demo I quickly implement a python module, [codeinterpreter-api](https://
 
 This project uses data I collected on all the food I ate and their nutrition label contents for roughly 4.5 days.
 
-<img src="media/first5rows.jpg">
+<img src="media/first5rows.JPG">
 
 Looking at the first five rows, we can see that the data contains labeled columns with the consumption date and time, plus columns with nutrient labels. 
 
-<img src="media/inforeport.jpg">
+<img src="media/inforeport.JPG">
 
 We can see that the data is organised but has many missing values across all columns.
 
@@ -35,7 +35,7 @@ user_request = "Compare daily intake of the macronutrients recorded in this data
 
 I was able to produce this chart.
 
-<img src="media/CodeInterpreterAPI_Final.jpg">
+<img src="media/CodeInterpreterAPI_Final.JPG">
 
 The response also included text-based insight along with the plot response for context. It says
 
